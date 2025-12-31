@@ -28,11 +28,11 @@ export default function Projects() {
                                 <div className='grid grid-cols-2 lg:grid-cols-3 mt-[0.9rem] gap-[0.5rem] font-semibold text-[#a855f7]'>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>TypeScript</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5rem] py-[0.2rem] px-[0.5rem] rounded-full'>React JS</p>
-                                    <p className='bg-[#45454cab] cursor-pointer w-[6.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>Tailwind CSS</p>
+                                    <p className='bg-[#45454cab] cursor-pointer w-[6.9rem] py-[0.2rem] px-[0.5rem] rounded-full'>Tailwind CSS</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>ExpressJS</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>MongoDB</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>ExpressJS</p>
-                                    <p className='bg-[#45454cab] cursor-pointer w-[7.65rem] mr-[0.9rem] py-[0.2rem] px-[0.5rem] rounded-full'>Atomic Design</p>
+                                    <p className='bg-[#45454cab] cursor-pointer w-[7.7rem] mr-[0.9rem] py-[0.2rem] px-[0.5rem] rounded-full'>Atomic Design</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[8rem] py-[0.2rem] px-[0.5rem] rounded-full'>Solid Principles</p>
                                 </div>
                             </div>
@@ -74,7 +74,7 @@ export default function Projects() {
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>TypeScript</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5rem] py-[0.2rem] px-[0.5rem] rounded-full'>React JS</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5rem] py-[0.2rem] px-[0.5rem] rounded-full'>React JS</p>
-                                    <p className='bg-[#45454cab] cursor-pointer w-[6.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>Tailwind CSS</p>
+                                    <p className='bg-[#45454cab] cursor-pointer w-[6.9rem] py-[0.2rem] px-[0.5rem] rounded-full'>Tailwind CSS</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[7.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>Atomic Design</p>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@ export default function Projects() {
                                 <div className='grid grid-cols-2 lg:grid-cols-3 mt-[0.9rem] gap-[0.5rem] font-semibold text-[#a855f7]'>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>JavaScript</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5rem] py-[0.2rem] px-[0.5rem] rounded-full'>React JS</p>
-                                    <p className='bg-[#45454cab] cursor-pointer w-[6.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>Tailwind CSS</p>
+                                    <p className='bg-[#45454cab] cursor-pointer w-[6.9rem] py-[0.2rem] px-[0.5rem] rounded-full'>Tailwind CSS</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[9.4rem] py-[0.2rem] px-[0.5rem] rounded-full'>OpenWeather API</p>
                                 </div>
                             </div>
@@ -115,7 +115,7 @@ export default function Projects() {
                             <div className='grid grid-cols-2 lg:grid-cols-3 mt-[0.9rem] gap-[0.5rem] font-semibold text-[#a855f7]'>
                                 <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>TypeScript</p>
                                 <p className='bg-[#45454cab] cursor-pointer w-[5rem] py-[0.2rem] px-[0.5rem] rounded-full'>React JS</p>
-                                <p className='bg-[#45454cab] cursor-pointer w-[6.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>Tailwind CSS</p>
+                                <p className='bg-[#45454cab] cursor-pointer w-[6.9rem] py-[0.2rem] px-[0.5rem] rounded-full'>Tailwind CSS</p>
                                 <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>ExpressJS</p>
                                 <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>MongoDB</p>
                                 <p className='bg-[#45454cab] cursor-pointer w-[7.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>Atomic Design</p>
@@ -136,7 +136,7 @@ export default function Projects() {
                                 <h5 className='text-[#adadb0] leading-[1.6rem] text-[1.2rem] my-[0.4rem]'>A Bootstrap-based UI templates collection offering clean, responsive designs for versatile web projects.</h5>
                                 <div className='grid grid-cols-2 lg:grid-cols-3 mt-[0.9rem] gap-[0.5rem] font-semibold text-[#a855f7]'>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5rem] py-[0.2rem] px-[0.5rem] rounded-full'>HTML</p>
-                                    <p className='bg-[#45454cab] cursor-pointer w-[7.5rem] py-[0.2rem] px-[0.5rem] rounded-full'>Bootstrap CSS</p>
+                                    <p className='bg-[#45454cab] cursor-pointer w-[7.7rem] py-[0.2rem] px-[0.5rem] rounded-full'>Bootstrap CSS</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>JavaScript</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>AOS</p>
                                     <p className='bg-[#45454cab] cursor-pointer w-[5.8rem] py-[0.2rem] px-[0.5rem] rounded-full'>Carousel</p>
