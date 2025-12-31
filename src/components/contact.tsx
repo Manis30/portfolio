@@ -60,7 +60,7 @@ export default function Contact() {
                     msg
                 },
                 import.meta.env.VITE_EMAIL_PUBLIC
-            ).then(() => alert('Message sent to Mani successfully')).catch((error: any) => alert("Failed to send message"))
+            ).then(() => alert('Message sent to Mani successfully'));
             setEmail('')
             setMsg('')
             setName('')
